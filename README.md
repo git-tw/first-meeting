@@ -18,3 +18,6 @@ Git.tw 第一次社群活動討論區
 * [產生key的方式](https://help.github.com/articles/generating-ssh-keys/#platform-all)
 
 * [Windows下產生key的工具](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+
+如果你有任何想法，歡迎共同編輯。謝謝！
+-------------------------
