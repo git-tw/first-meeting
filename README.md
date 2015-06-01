@@ -1,9 +1,15 @@
 Git.tw 第一次社群活動討論區
 =========================
 
+活動照片
+-------------------------
 
+![image](https://rawgit.com/git-tw/first-meeting/master/images/2015-05-30%2015.08.44.jpg)
 
+![image](https://rawgit.com/git-tw/first-meeting/master/images/2015-05-30%2015.08.44.jpg)
 
+討論議題
+-------------------------
 
 * [初次使用command的教學](https://try.github.io/levels/1/challenges/1)
 
