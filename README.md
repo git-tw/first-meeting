@@ -6,7 +6,7 @@ Git.tw 第一次社群活動討論區
 
 ![image](https://rawgit.com/git-tw/first-meeting/master/images/2015-05-30%2015.08.44.jpg)
 
-![image](https://rawgit.com/git-tw/first-meeting/master/images/2015-05-30%2015.08.44.jpg)
+![image](https://rawgit.com/git-tw/first-meeting/master/images/2015-05-30%2015.08.56.jpg)
 
 討論議題
 -------------------------
